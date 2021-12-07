@@ -1,8 +1,7 @@
 saniya
 palamaner
 devop learning
-<<<<<<< HEAD
-in bangalore
-=======
+in bangalor
 java hime 
->>>>>>> refs/remotes/origin/main
+apple is a fruit
+
