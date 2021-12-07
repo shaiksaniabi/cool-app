@@ -1,13 +1,10 @@
 saniya
 palamaner
 devop learning
-<<<<<<< HEAD
 in bangalore
 java hime 
 beans is a vegetable
-=======
 in bangalor
 java hime 
 apple is a fruit
-
->>>>>>> 5d4fae18663c2c5e7e891b9c6b677087b2eebd27
+git hub configuration
