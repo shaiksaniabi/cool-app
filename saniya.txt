@@ -1,4 +1,8 @@
 saniya
 palamaner
 devop learning
+<<<<<<< HEAD
 in bangalore
+=======
+java hime 
+>>>>>>> refs/remotes/origin/main
